@@ -4,7 +4,7 @@ ThisBuild / scalaVersion := "2.12.8"
 
 lazy val root = (project in file("."))
   .settings(
-    name := "rate-source-excercise"
+    name := "rate-source-exercise"
   )
 
 libraryDependencies += "org.apache.spark" %% "spark-sql" % "3.2.1"
