@@ -1,0 +1,10 @@
+#general
+*.class
+*.log
+#intellij
+.idea
+.bsp
+# sbt
+project/project/
+project/target/
+target/
